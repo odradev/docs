@@ -437,8 +437,8 @@ VA reputation award= total award * VA stakesum of staked reputation of elligible
 VA's / sum of staked  reputation of elligible VA's
 
 Where total award is amount of Reputation to redistribute. After voting it would
-be the sum of Reputation staked by the losing side. For newly minted Reputation
-- all of it, minus the Reputation reward for the Worker.
+be the sum of Reputation staked by the losing side. For newly minted Reputation - 
+all of it, minus the Reputation reward for the Worker.
 
 ## Onboarding without a Job Offer TODO
 One of the side effects of completing a Job by an External Worker is the p
