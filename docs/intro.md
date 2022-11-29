@@ -11,5 +11,6 @@ slug: /
 ### For rust dev
 ### For noobs
 
+## What is Odra
 ## Smart Contracts 101
 ## WASM 102
